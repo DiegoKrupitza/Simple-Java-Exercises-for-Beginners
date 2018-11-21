@@ -13,6 +13,23 @@ Die Beschreibung der Tasks sind nicht von mir (ich habe sie jegendlich im Intern
 
 Ich hoffe dieses Repo hilft vielen Programmieranfängern in der Sprache Java!
 
+# Kategorien
+_**String Aufgaben**_
+* Task 1
+* Task 2
+* Task 4
+* Task 7
+* Task 9
+* Task 27
+* Task 29
+
+_**Zeichen Aufgaben mit StdDraw**_
+* Task 3
+* Task 6
+* Task 8
+* Task 10
+* Task 28
+* Task 30
 
 # Contact
 Im Falle, dass man mich Kontaktieren möchte (Credits, ...) stehe ich gerne zur Verfügung
