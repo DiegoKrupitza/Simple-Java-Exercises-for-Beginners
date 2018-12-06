@@ -1,9 +1,7 @@
 import java.awt.*;
 
 /**
- * Task 3) Mehrere Quadrate (Anzahl laut einer Variable) in einem Ausgabefenster ausgeben,
- * wobei ein bestimmter Abstand vom Rand gegeben war und die Quadrate außerdem
- * denselben Abstand untereinander haben mussten.
+ * Task 3) Output several squares (number according to a variable) in an output window, where a certain distance from the edge is given and the squares must also have the same distance from each other.
  */
 public class Task3 {
     public static void main(String[] args) {

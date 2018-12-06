@@ -1,6 +1,6 @@
 /*
-    Man liest einen String aus und gibt diesen Rückwärts aus. Nachdem gibt man die Summer aller Zeichen danach aus
-    ZB Parken => nekraP, 609
+    You read out a string and output it backwards. After that you output the sum of all characters afterwards
+    Example:  Parken => nekraP, 609
  */
 public class Task29 {
 

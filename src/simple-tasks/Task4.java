@@ -1,15 +1,16 @@
 /*
-   Task 4) Die Buchstaben eines Strings auf ein Charakter überprüfen, falls die Buchstaben nicht gleich sind,
-   soll die Buchstabe mit ein '#' ersetzt werden, sonst soll die Buchstabe mit dem Charakter ersetzt werden.
+   Task 4)
+   Replace all the characters with '#' that aren't 's'. This should also work with other characters. So please use a variable
+   Example: "a1defcaad" -> "#1defc##d"
 */
 
 public class Task4 {
     public static void main(String[] args) {
         char checkChar = 's';
-        String meinString = "oeiufhwpiuvnsdsdsdghzjzkuikjuhztgcgfbzzgtrcefbrbgvfeoqirfjwcprfimc";
+        String myString = "oeiufhwpiuvnsdsdsdghzjzkuikjuhztgcgfbzzgtrcefbrbgvfeoqirfjwcprfimc";
         String printString = "";
-        for (int i = 0; i < meinString.length(); i++) {
-            char charAtPoint = meinString.charAt(i);
+        for (int i = 0; i < myString.length(); i++) {
+            char charAtPoint = myString.charAt(i);
             if(charAtPoint != checkChar) {
                printString += "#";
             }else {

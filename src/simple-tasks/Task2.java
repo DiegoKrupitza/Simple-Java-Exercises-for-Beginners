@@ -1,5 +1,6 @@
 /*
-   Task 2) Zahlen zwischen (inkl.) 1 - (inkl.) 100 getrennt durch ein "+" ausgeben, die durch 6 und 9 teilbar sind.
+   Task 2) Display all numbers from 1 to 100 that can be divided by 9 or 6 with a "+".
+
  */
 public class Task2 {
     public static void main(String[] args) {

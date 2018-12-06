@@ -1,6 +1,6 @@
 /*
  Zeichne n * n Kreise. In der Diagonale sollen die Kreise getrennt sein. Sprich eine Seite soll grün sein und die Andere soll blau sein.
- Das Fester soll mit einer Fixen breite von 400 Pixel sein. Die Größe der Kreise soll propertional zu der Anzahl sein.
+ Das Fester soll mit einer Fixen breite von 400 Pixel sein. Die größe der Kreise soll propertional zu der Anzahl sein.
  */
 import java.awt.*;
 

@@ -1,7 +1,7 @@
 import java.awt.*;
 
 /**
-    Task 6) Mit Hilfe von StdDraw soll dieses Muster erstellt werden.
+    Task 6)  Display the following pattern with StdDraw. Please use a for loop.
 
                         ●
                             ●

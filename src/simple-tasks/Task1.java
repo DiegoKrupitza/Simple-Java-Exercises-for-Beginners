@@ -1,5 +1,5 @@
 /*
-    Task 1) Einen beliebigen String gespiegelt ausgeben.
+    Task 1) Output any string mirrored.
  */
 public class Task1 {
     public static void main(String[] args) {

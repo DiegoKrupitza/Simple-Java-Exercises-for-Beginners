@@ -5,16 +5,24 @@
 
 
 
-In diesem Repository findet ihr viele Möglichkeiten eure neuerlernten Javaskills zu testen. Es wird einige male mit dem [StdDraw Framework von Princeton](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html) gearbeitet. Darum empfehle ich dir es sich kurz anzuschauen! 
+In this repository you will find many ways to test your newly learned Javaskills. The [StdDraw Framework from Princeton](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html) is used several times. That's why I recommend you take a look at it! 
+
+**I hope this repo helps many programmers in Java!**
 
 #Tasks 
-Die Beschreibung der Tasks sind meiste oben in jeder Java Klasse. Da es sich um *einfache* Java Aufgaben handelt, soll hier nicht ungebindet objektorientiert Programmiert werden.
-Die Beschreibung der Tasks sind nicht von mir (ich habe sie jegendlich im Internet vorgefunden und habe mir gedacht, sie seien gut zum Üben). Aufgrund dessen sind diese manches mal nicht sehr deutlich oder lassen sehr viel Interpretationsspielraum.
+The description of the tasks are most above in each Java class. Since these are *simple* Java tasks, we do not want to program unbound object-oriented here.
+The description of the tasks are not from me (I found them everywhere on the internet and thought they were good for practicing). Because of this they are sometimes not very clear or leave a lot of room for interpretation. 
 
-Ich hoffe dieses Repo hilft vielen Programmieranfängern in der Sprache Java!
+*A detailed description of the Task can be found **[here](TaskDescriptions.md)***
 
-# Kategorien
-_**String Aufgaben**_
+# Contribution
+In case you have a good idea for a new tasks please:
+ * open a new issue and tag it with "Task Idea"
+ * describe the requirements precise 
+ * let us know why you think that the task could help others and for what it aims for 
+
+# Categories
+_**String Tasks**_
 * Task 1
 * Task 2
 * Task 4
@@ -23,7 +31,7 @@ _**String Aufgaben**_
 * Task 27
 * Task 29
 
-_**Zeichen Aufgaben mit StdDraw**_
+_**Drawing Tasks with StdDraw**_
 * Task 3
 * Task 6
 * Task 8
@@ -32,7 +40,7 @@ _**Zeichen Aufgaben mit StdDraw**_
 * Task 30
 
 # Contact
-Im Falle, dass man mich Kontaktieren möchte (Credits, ...) stehe ich gerne zur Verfügung
+In case you would like to contact me (credits, ...) I am at your service
 
 **_Discord:_**  KingD#1462
 

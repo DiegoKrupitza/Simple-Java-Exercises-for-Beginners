@@ -1,7 +1,5 @@
 /*
- gegeben ist der String "dies ist der erste String in diesem Programm" nach jedem vorkommen eines bestimmten character soll danach groß herausgeschrieben werden, wie oft es vorkommt!
- Maximal soll es bis zu DREI kommen.
- Sprich bei dem oben angeführt String soll "diEINSes ist dZWEIer DREIerste String in diesem Programm" herauskommen
+ Task 27) The string "dies ist der erste String in diesem Programm" is given. After each occurrence of a certain character, it should be capitalized how often it occurs!  Maximum it should come up to THREE. That means with the string mentioned above "diEINSes ist dZWEIer DREIerste String in diesem Programm" should come out.
  */
 public class Task27 {
     public static void main(String[] args) {

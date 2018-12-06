@@ -1,5 +1,7 @@
 /**
- * Task 7) Formattiere eine Binärzahl (String) in 4er Blöcke, von hinten begonnen also z.B. 10100 wird zu 1 0100
+ * Task 7)
+ * Format a binary number (given as a String) into groups of 4 digits.
+ * Example: 11010110101101001 -> 1 1010 1101 0110 1001
  */
 public class Task7 {
     public static void main(String[] args) {

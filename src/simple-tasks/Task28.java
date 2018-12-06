@@ -1,6 +1,5 @@
 /*
-    Zeichne eine Pyramide mit n stufen. Die Stufen sollen auf eine Seite rauf gehen und in der mitte wieder runter gehen
-
+    Draw a pyramid with n steps. The steps should go up to one side and go down again from the middle.
     BSP: n = 5
                     ``````````
                     dddddddddd
