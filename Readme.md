@@ -1,4 +1,4 @@
-# Simple Java Excercises for Beginners
+# Simple Java Exercises for Beginners
 
 ![Java Version](https://img.shields.io/badge/Java-1.8-green.svg "Java Version")
 ![Lern Level](https://img.shields.io/badge/Level-Beginner%20Friendly-blue.svg "Beginner Friendly")
