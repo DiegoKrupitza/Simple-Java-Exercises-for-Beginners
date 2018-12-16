@@ -59,3 +59,32 @@ In this file you get the requirements you have to accomplish for each tasks. Hop
 Example n = 5
 ![Example for Task 30 ](taskdescriptionimages/Task30.png "Example for Task 30")
   
+### Task 31 
++ Write a method to sort a numeric array
+
+### Task 32
++ Write a method to sum values of an array
+
+### Task 33
++ Write a method to calculate the average value of array elements
+
+### Task 34
++ Write a method with the name 'findInt(int[] array)' to test if an array contains a specific value. Return of the method should be a boolean
+
+### Task 35
++ Write a Method to insert an element (specific position) into an array. The signature of the Method should be `insertElement(String[] array, int position)` .Please check if the position is valid before inserting!
+
+### Task 36
++ Write a method to find the maximum value of an array in a given interval.
++ For example:
+   + 4 2 5 5 1 3 2
+   + maximum from interval index 3 - 5 is 3
+
+### Task 37
++ Write a method to remove duplicate elements from an array.
+
+### Task 38
++ Write a method that counts how often an element occurs in an array
++ For example:
+   + int[] a = { 3, 5, 4, 6, 6, 2, 3, 4, 2, 3 }
+   + countOccurs(a,3)   // should return 3;

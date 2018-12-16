@@ -31,6 +31,17 @@ _**String Tasks**_
 * Task 27
 * Task 29
 
+_**Working with arrays and methods**_
+* Task 31
+* Task 32
+* Task 33
+* Task 34
+* Task 35
+* Task 36
+* Task 37
+* Task 38
+
+
 _**Drawing Tasks with StdDraw**_
 * Task 3
 * Task 6
@@ -38,6 +49,7 @@ _**Drawing Tasks with StdDraw**_
 * Task 10
 * Task 28
 * Task 30
+
 
 # Contact
 In case you would like to contact me (credits, ...) I am at your service
