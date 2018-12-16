@@ -9,7 +9,7 @@ In this repository you will find many ways to test your newly learned Javaskills
 
 **I hope this repo helps many programmers in Java!**
 
-#Tasks 
+# Tasks 
 The description of the tasks are most above in each Java class. Since these are *simple* Java tasks, we do not want to program unbound object-oriented here.
 The description of the tasks are not from me (I found them everywhere on the internet and thought they were good for practicing). Because of this they are sometimes not very clear or leave a lot of room for interpretation. 
 
