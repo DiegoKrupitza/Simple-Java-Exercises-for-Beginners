@@ -13,7 +13,7 @@ In this repository you will find many ways to test your newly learned Javaskills
 The description of the tasks are most above in each Java class. Since these are *simple* Java tasks, we do not want to program unbound object-oriented here.
 The description of the tasks are not from me (I found them everywhere on the internet and thought they were good for practicing). Because of this they are sometimes not very clear or leave a lot of room for interpretation. 
 
-*A detailed description of the Task can be found **[here](TaskDescriptions.md)***
+***A detailed description of the Task can be found **[here](TaskDescriptions.md)*****
 
 # Contribution
 In case you have a good idea for a new tasks please:
@@ -40,6 +40,12 @@ _**Working with arrays and methods**_
 * Task 36
 * Task 37
 * Task 38
+* Task 39
+* Task 40
+* Task 41
+* Task 42
+* Task 43
+* Task 44
 
 
 _**Drawing Tasks with StdDraw**_
@@ -50,7 +56,6 @@ _**Drawing Tasks with StdDraw**_
 * Task 28
 * Task 30
 
-
 # Contact
 In case you would like to contact me (credits, ...) I am at your service
 
@@ -58,3 +63,6 @@ In case you would like to contact me (credits, ...) I am at your service
 
 _**Email:**_  info@diegokrupitza.com
  
+# Contributors
++ Diego Krupitza
++ ...

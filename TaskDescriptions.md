@@ -88,3 +88,28 @@ Example n = 5
 + For example:
    + int[] a = { 3, 5, 4, 6, 6, 2, 3, 4, 2, 3 }
    + countOccurs(a,3)   // should return 3;
+   
+### Task 39
++ Find the biggest character in a given String and return it
+
+### Task 40
++ Replace a character in a given String with another character
++ Note: do not use the replaceAll method from String -> the goal is to write your own representation of replaceAll
+
+### Task 41
++ Write a method with the signature `fillArray(int[] a)` that fills a array from 10 to 1 (descending)
+
+### Task 42
++ Write a method that gets an integer array and returns the same array with an extra element that is the calculated average of the given array.
++ For example:
+  + {1,2,3,4,5,6} -> {1,2,3,4,5,6, 3}
+  
+### Task 43
++ Write a method that deletes the following character of a String when a certain character is occurring.
+ + For example:
+    + deleteNext("ABCDEFCG",'C') ---> ABCEFC
+ 
+### Task 44
++ Compare to Strings and find the biggest character at the current positon. Write that bigger character into an array. If one string is bigger than the other one write the rest of the bigger string into that array
+ + For example:
+    + stringComparer("TestString", "Thats a 2 TestString ABCDEF") ----> ThststringTestString ABCDEF
