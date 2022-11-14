@@ -11,21 +11,21 @@ public class Task40 {
     }
 
     private static String replaceAll(String string, char replacer, char find) {
-        String s = "";
+        StringBuilder sBuild = new StringBuilder();
 
         for (int i = 0; i < string.length(); i++) {
             char current = string.charAt(i);
             if (current == find) {
                 //NOTE: in bigger applications its important not to use "simple" concatenations, because it creates
                 // every time a new string and that leads to hard work for the garbage collector
-                s += replacer;
+                sBuild.append(replacer);
             } else {
-                s += current;
+                sBuild.append(current);
             }
 
         }
 
-        return s;
+        return sBuild.toString();
     }
 
 }
